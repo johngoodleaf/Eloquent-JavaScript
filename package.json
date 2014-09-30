@@ -10,6 +10,12 @@
   },
   "dependencies": {
     "acorn": "0.3",
-    "codemirror": "3.18"
+    "codemirror": "4"
+  },
+  "devDependencies": {
+    "contextify": "kkoopa/contextify",
+    "jsdom": "0.10",
+    "canvas": "git://github.com/learnboost/node-canvas",
+    "promise": "6"
   }
 }
